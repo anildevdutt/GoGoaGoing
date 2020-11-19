@@ -3,12 +3,12 @@ Hopefully we are going to Goa and don't end up in Siberia, Alaska, Bermuda Trian
 
 ## Target Location
 * ## Beach 
-  **Date:** 
+  **Date:** </br>
   **Mission:** Search for treasure that got washed to the beach shore from a pirate ship 
 
 * ## Waterfalls <will updated the name later> 
-  **Date:** 
-  **Mission:** 
+  **Date:** </br>
+  **Mission:** </br>
    ** Go undercover and mix in with the enemies (Humans)
    ** Gain access to an vehicle
    ** Navigarte throu the eneme tertory and reach the destination 
