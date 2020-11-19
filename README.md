@@ -3,4 +3,4 @@ Hopefully we are going to Goa and don't end up in Siberia or Alaska or Bermuda T
 
 ## Target Location
 * Beach
-** Mission: Melt sand into glass
+**Mission:** Melt sand into glass
